@@ -1,0 +1,13 @@
+[package]
+name = "rust_learn"
+version = "0.1.0"
+authors = ["MaestroMikey <68441647+MaestroMikey@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[workspace]
+members = ["guessing_game", "hello_cargo", "variables", "functions", "parameters", "branches", "loops", "ownership",
+            "data_structure", "rectangles"]
