@@ -1,0 +1,6 @@
+Data Types:
+Integer: i32, u32 = 22, -23
+Boolean: true, false
+Float Point: f32, f64 = 4.20, 6.93
+Character: 'A', 'b', '6', '$'
+String: "hello, world", "this is a string"

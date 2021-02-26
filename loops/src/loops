@@ -1,0 +1,8 @@
+Loops: can be referred to as "repetition" or "iteration"
+
+Multiple types of loops
+    "loop" - infinite loop
+    "while" - conditional loop
+
+    loop: will run the code over and over until the condition is met, hits the "break point".
+    while: will run the code over while the condition is being met.

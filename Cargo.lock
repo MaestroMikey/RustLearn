@@ -5,6 +5,14 @@ name = "branches"
 version = "0.1.0"
 
 [[package]]
+name = "coding_activities"
+version = "0.1.0"
+
+[[package]]
+name = "control_flow"
+version = "0.1.0"
+
+[[package]]
 name = "data_structure"
 version = "0.1.0"
 

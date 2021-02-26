@@ -1,0 +1,10 @@
+Variable: Assign data to a temporary memory location.
+    Allows programmer to easily work with memory
+
+Can be set to and value & data type
+
+Immutable by default, but can be mutable
+    Immutable: cannot be changed
+    Mutable: can be changed
+
+let variablename = variable data; Semicolon will indicate to move on to the next line

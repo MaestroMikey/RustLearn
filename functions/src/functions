@@ -1,0 +1,11 @@
+Functions: A way to encapsulate program functionality.
+
+Optionally accept data, or optionally return data
+
+Utilized for code organization.
+    Also make code easier to read.
+
+Macros!: pasting in a bunch of code to ensure you don't have to write it.
+
+Println!: dispaly information to the terminal. Useful for debugging.
+    "{:?}" = debug mode

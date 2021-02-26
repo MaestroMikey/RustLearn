@@ -10,4 +10,4 @@ edition = "2018"
 
 [workspace]
 members = ["guessing_game", "hello_cargo", "variables", "functions", "parameters", "branches", "loops", "ownership",
-            "data_structure", "rectangles"]
+            "data_structure", "rectangles", "control_flow", "coding_activities"]

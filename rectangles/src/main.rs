@@ -18,7 +18,4 @@ fn main() {
 
     println!("Rectangle Area = {}", rect1.area()); // call area method on Rectangle instance with
     // method syntax, going after rect1 instance
-
 }
-
-fn square()

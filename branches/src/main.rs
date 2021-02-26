@@ -1,5 +1,5 @@
 fn main() {
-    let condition = true;
+    let condition = false;
     let number = if condition {
         9
     } else {
