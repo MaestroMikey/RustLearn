@@ -1,0 +1,7 @@
+When running a program, code is executed line by line.
+
+Actions are performed and control flow may change.
+    Specific conditions can change control flow
+        "if"
+        "else"
+        "else if"
