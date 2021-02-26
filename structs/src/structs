@@ -1,0 +1,7 @@
+Structs: A data type that contains multiple pieces of data.
+    All or nothing: - cannot have some pieces of data and not others. All pieces of data must be present.
+
+Each piece of data is called a "field".
+
+Makes working with data easier.
+    Similar data can be grouped together.

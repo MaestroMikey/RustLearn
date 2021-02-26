@@ -1,0 +1,6 @@
+Enums:
+Data the can be one of multiple different possibilities.
+    Each possibility is called a variant
+
+Provides information about your program to the compiler
+    Used in more robust programs, especially when used with match.

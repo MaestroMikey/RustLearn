@@ -10,12 +10,15 @@
       <sourceFolder url="file://$MODULE_DIR$/parameters/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/data_structure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rectangles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aapl/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/coding_activities/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/control_flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/match_basics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuples/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />

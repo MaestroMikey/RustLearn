@@ -1,0 +1,9 @@
+Tuples: Type of "record" - a line of infromation on a piece of paper/
+    (1, 2, 3)
+
+Store data anonymously.
+    No need to name fields.
+
+Useful to return pairs of data from functions.
+
+Can be "destructured" easily into variables.

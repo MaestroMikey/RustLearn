@@ -1,0 +1,19 @@
+Match expressions:
+Add logic to program.
+
+Similar to if..else
+
+Match functions must be exhaustive, meaning all options must be accounted for.]
+
+Match will be checked by the compiler.
+    If a new possibility is added, you will be notified when this occurs.
+
+Else..if is not checked by the compiler. Meaning once it finds the first condition, it will stop running.
+    If a new possibility is added, your code may contain a bag.
+
+Preferred when working with a single variable.
+
+Considers all possibilities.
+    More robust  code.
+
+'_' to signify matching with "anything else".  A condition or variable not listed in the match body.
